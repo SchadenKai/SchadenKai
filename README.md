@@ -1,4 +1,3 @@
-<img src="https://c.tenor.com/4RYbGa1GttQAAAAd/lofi-browsing.gif">
 
 <h1 align="center">Hi 👋, I'm Kairus Noah Tecson</h1>
 <h3 align="left">Connect with me:</h3>
