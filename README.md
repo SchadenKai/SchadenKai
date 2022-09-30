@@ -2,8 +2,9 @@
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/1y2c11KnuEkAAAAC/anime-chopper.gif">
 
 <h1 align="left">Kairus Noah Tecson (SchadenKai) </h1>
-<p> Currently, a student of Batangas State University - Third Year. </p>
-<p> Focused on learning software development (web and mobile development) and game development. </p>
+- 🏫 Batangas State University - Alangilan 
+- 💻 Focused on learning Web and Mobile development
+
 <p> Aun Aprendo </p>
 <br>
 <h3 align="left">Socials:</h3>
