@@ -1,12 +1,12 @@
 <img width="1080" src="https://media4.giphy.com/media/NO5rJMAOQf32Bdm7ac/giphy.gif?cid=790b76117c3dea506ed0e6fc53cb06815592ea6d751d291f&rid=giphy.gif&ct=g">
-<img align="right" alt="Coding" width="300" src="https://c.tenor.com/1y2c11KnuEkAAAAC/anime-chopper.gif">
-
+## About me 
 <h1 align="left">Kairus Noah Tecson (SchadenKai) </h1>
 <p>- 🏫 Batangas State University - Alangilan </p>
 <p>- 💻 Focused on learning Web and Mobile development </p>
 <p>Aun Aprendo </p>
-<br>
-<h3 align="left">Socials:</h3>
+
+## Socials
+
 <p align="left">
 <a href="https://fb.com/kairus.tecson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kairus.tecson" height="30" width="40" /></a>
 <a href="https://instagram.com/kaitcson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaitcson" height="30" width="40" /></a>
