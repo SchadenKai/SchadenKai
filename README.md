@@ -1,4 +1,5 @@
 <img width="1080" src="https://media4.giphy.com/media/NO5rJMAOQf32Bdm7ac/giphy.gif?cid=790b76117c3dea506ed0e6fc53cb06815592ea6d751d291f&rid=giphy.gif&ct=g">
+
 ## About me 
 <h1 align="left">Kairus Noah Tecson (SchadenKai) </h1>
 <p>- 🏫 Batangas State University - Alangilan </p>
