@@ -2,10 +2,9 @@
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/1y2c11KnuEkAAAAC/anime-chopper.gif">
 
 <h1 align="left">Kairus Noah Tecson (SchadenKai) </h1>
-- 🏫 Batangas State University - Alangilan 
-- 💻 Focused on learning Web and Mobile development
-
-<p> Aun Aprendo </p>
+<p>- 🏫 Batangas State University - Alangilan </p>
+<p>- 💻 Focused on learning Web and Mobile development </p>
+<p>Aun Aprendo </p>
 <br>
 <h3 align="left">Socials:</h3>
 <p align="left">
