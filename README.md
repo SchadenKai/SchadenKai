@@ -3,7 +3,7 @@
 ## About me 
 <p>- 🏫 Batangas State University - Alangilan </p>
 <p>- 💻 Focused on learning Web and Mobile development </p>
-<p>- Aun Aprendo </p>
+<p>- 💩 Still Learning, Nothing here </p>
 
 ## Socials
 
