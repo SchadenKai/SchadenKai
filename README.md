@@ -17,18 +17,3 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/1144/1144760.png" alt="portfolio" height="30" width="30" />
   </a>
 </p>
-
-## Github Stats 
-
-<p align="center">
-  <a href="https://schadenkai.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=schadenkai&theme=cobalt&show_icons=true&locale=en&layout=compact"></img>
-  </a><br>
-  <a href="https://schadenkai.github.io">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=schadenkai&theme=maroongold&show_icons=true"></img>
-  </a>
-   <a href="https://schadenkai.github.io">
-    <img src="https://github-readme-stats.vercel.app/api?username=schadenkai&theme=cobalt&show_icons=true&locale=en"></img>
-  </a>
-</p>
-
