@@ -1,8 +1,7 @@
 
 ## About me 
-<p>- 🏫 Batangas State University - Alangilan </p>
-<p>- 💻 Focused on learning Web and Mobile development </p>
-<p>- 💩 Still Learning, Nothing here </p>
+<p>- 🏫 3rd Year CS Student -- Batangas State University - Alangilan </p>
+<p>- 💻 Fullstack development | UI/UX | Machine Learning | BlockChain and Web3 </p>
 
 ## Socials
 
