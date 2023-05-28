@@ -1,3 +1,10 @@
+## About me 
+```
+3rd year Computer Science student in Batangas State University - Alangilan campus. 
+Mostly interested in creating interesting projects with targeted users with the goal of being able to learn and to possibly earn. 
+I'm open for collaboration to learn and improve. 
+I'm also currently open for internships 😶‍🌫️
+```
 ## Skills
 
 <p align="center">
@@ -16,12 +23,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchadenKai&theme=dracula&show_icons=true&hide_border=false&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SchadenKai&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
 </p>
 
 ## Socials
