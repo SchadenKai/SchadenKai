@@ -1,9 +1,10 @@
 ## About me 
 ```
-3rd year Computer Science student in Batangas State University - Alangilan campus. 
-Mostly interested in creating interesting projects with targeted users with the goal of being able to learn and to possibly earn. 
-I'm open for collaboration to learn and improve. 
-I'm also currently open for internships 😶‍🌫️
+Upcoming fourth year Computer Science student in Batangas State University - Alangilan campus. 
+FERN Stack developer (Firebase, Express, React, Node)
+Currently interested in data science and machine learning
+Open for collab projects, internship opportunities, or anything
+that can earn money 💸 (me poor af)
 ```
 ## Skills
 
