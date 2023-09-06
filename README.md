@@ -1,10 +1,9 @@
 ## About me 
 ```
-Upcoming fourth year Computer Science student in Batangas State University - Alangilan campus. 
+Fourth year Computer Science student in Batangas State University - Alangilan campus 🏫. 
 FERN Stack developer (Firebase, Express, React, Node)
-Currently interested in data science and machine learning
-Open for collab projects, internship opportunities, or anything
-that can earn money 💸 (me poor af)
+Currently interested in data science, machine learning, and AI 
+Currently working on some projects  
 ```
 ## Skills
 
