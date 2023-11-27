@@ -54,3 +54,5 @@ Currently working on some projects
   </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=SchadenKai&color=red&label=👁️)
+
