@@ -25,5 +25,6 @@ Fourth year Computer Science student in Batangas State University - Alangilan
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
+<a href="https://app.daily.dev/kaitecson"><img src="https://api.daily.dev/devcards/v2/69tGOQ4sJMQx5SyXPChG7.png?type=default&r=wzm" width="356" alt="Kai Tecson's Dev Card"/></a>
 
 ![](https://komarev.com/ghpvc/?username=SchadenKai&color=red&label=👁️)
