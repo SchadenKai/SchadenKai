@@ -7,10 +7,9 @@ Fourth year Computer Science student in Batangas State University - Alangilan
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=cpp,javascript,typescript,python,php,kotlin,&theme=dark&perline=8)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,threejs,bootstrap,tailwind,sass,jquery,expressjs,nodejs,fastapi,mysql,postgresql,git,github,githubactions,docker,linux&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,threejs,nextjs,bootstrap,tailwind,sass,jquery,expressjs,nodejs,fastapi,mysql,postgresql,git,github,githubactions,docker,linux,pytorch&theme=dark&perline=10)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,firebase&theme=dark&perline=10)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,aws&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Socials
 
