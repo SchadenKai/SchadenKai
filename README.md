@@ -1,7 +1,10 @@
 ## About me
 
 ```
-Fourth year Computer Science student in Batangas State University - Alangilan
+Computer Science graduate from Batangas State University TNEU - Alangilan campus.
+Currently interested in Python, FastAPI, LangChain, & LLMs.
+Working at @enMedD as a Fullstack developer and Tech Lead.
+Also open for commission: kairustecsonpersonal@gmail.com
 ```
 
 ## Skills
