@@ -6,13 +6,23 @@ Currently interested in Python, FastAPI, LangChain, & LLMs.
 Working at @enMedD as a Fullstack developer and Tech Lead.
 Also open for commission: kairustecsonpersonal@gmail.com
 ```
+<a href="https://app.daily.dev/kaitecson"><img src="https://api.daily.dev/devcards/v2/69tGOQ4sJMQx5SyXPChG7.png?type=default&r=wzm" width="356" alt="Kai Tecson's Dev Card"/></a>
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,javascript,typescript,python,php,kotlin,&theme=dark&perline=8)](https://skillicons.dev)
+## Main Skills
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,threejs,nextjs,bootstrap,tailwind,sass,jquery,expressjs,nodejs,fastapi,mysql,postgresql,git,github,githubactions,docker,linux,pytorch&theme=dark&perline=10)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=gcp,firebase,aws&theme=dark&perline=10)](https://skillicons.dev)
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SchadenKai&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SchadenKai&theme=vue&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SchadenKai&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SchadenKai&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SchadenKai&theme=discord_old_blurple)
 
 ## Socials
 
@@ -27,6 +37,6 @@ Also open for commission: kairustecsonpersonal@gmail.com
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
-<a href="https://app.daily.dev/kaitecson"><img src="https://api.daily.dev/devcards/v2/69tGOQ4sJMQx5SyXPChG7.png?type=default&r=wzm" width="356" alt="Kai Tecson's Dev Card"/></a>
+
 
 ![](https://komarev.com/ghpvc/?username=SchadenKai&color=red&label=👁️)
