@@ -6,7 +6,7 @@ Currently interested in Python, FastAPI, LangChain, & LLMs.
 Working at @enMedD as a Fullstack developer and Tech Lead.
 Also open for commission: kairustecsonpersonal@gmail.com
 ```
-<a href="https://app.daily.dev/kaitecson"><img src="https://api.daily.dev/devcards/v2/69tGOQ4sJMQx5SyXPChG7.png?type=default&r=wzm" width="356" alt="Kai Tecson's Dev Card"/></a>
+![kaitecson (1)](https://github.com/user-attachments/assets/93cbe062-3bce-4397-b709-578c4a865944)
 
 ## Main Skills
 <div style="display: flex; align-items: flex-start;">
