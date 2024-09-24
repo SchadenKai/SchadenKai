@@ -6,7 +6,7 @@ Currently interested in Python, FastAPI, LangChain, & LLMs.
 Working at @enMedD as a Fullstack developer and Tech Lead.
 Also open for commission: kairustecsonpersonal@gmail.com
 ```
-![kaitecson (1)](https://github.com/user-attachments/assets/93cbe062-3bce-4397-b709-578c4a865944)
+<a href="https://app.daily.dev/kaitecson"><img src="https://api.daily.dev/devcards/v2/69tGOQ4sJMQx5SyXPChG7.png?type=default&r=9pq" width="356" alt="Kai Tecson's Dev Card"/></a>
 
 ## Main Skills
 <div style="display: flex; align-items: flex-start;">
@@ -20,9 +20,9 @@ Also open for commission: kairustecsonpersonal@gmail.com
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SchadenKai&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SchadenKai&theme=vue&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SchadenKai&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SchadenKai&theme=discord_old_blurple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SchadenKai&theme=discord_old_blurple)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schadenkai)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Socials
 
