@@ -6,7 +6,6 @@ Currently interested in LLMs and Agentic AI.
 Working at @ArnoldAI as a Development Lead and a Fullstack Developer / LLM Engineer at the side.
 Also open for commission: kairustecsonpersonal@gmail.com
 ```
-<a href="https://app.daily.dev/kaitecson"><img src="https://api.daily.dev/devcards/v2/69tGOQ4sJMQx5SyXPChG7.png?type=default&r=9pq" width="356" alt="Kai Tecson's Dev Card"/></a>
 
 ## Main Skills
 <div style="display: flex; align-items: flex-start;">
