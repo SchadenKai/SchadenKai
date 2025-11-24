@@ -1,9 +1,9 @@
 ## About me
 
 ```
+Applied AI Engineer and a Senior Fullstack Software Engineer.
 Computer Science graduate from Batangas State University TNEU - Alangilan campus.
-Currently interested in LLMs and Agentic AI.
-Working at @ArnoldAI as a Development Lead and a Fullstack Developer / LLM Engineer at the side.
+Experienced working in scale up AI company, building AI Chat and RAG systems for companies.
 Also open for commission: kairustecsonpersonal@gmail.com
 ```
 
