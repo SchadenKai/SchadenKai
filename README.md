@@ -8,20 +8,31 @@ Also open for commission: kairustecsonpersonal@gmail.com
 ```
 
 ## Main Skills
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-</div>
+### Applied AI
+- Langchain
+- Langgraph
+- Langsmith
+- LiteLLM
+- OpenAI
+- Pydantic AI
+### Backend Development
+- FastAPI
+- ExpressJS
+- SQLAlchemy
+- SQLModel
+### Frontend Development
+- NextJS
+- ReactJS
+- TailwindCSS
+### Cloud
+- AWS
+- Hetzner
+- Azure
+
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SchadenKai&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SchadenKai&theme=vue&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SchadenKai&theme=discord_old_blurple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SchadenKai&theme=discord_old_blurple)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schadenkai)](https://github.com/anuraghazra/github-readme-stats)
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schadenkai&theme=default)
+![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=schadenkai&theme=default&utcOffset=8)
 
 ## Socials
 
