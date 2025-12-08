@@ -31,7 +31,6 @@ Also open for commission: kairustecsonpersonal@gmail.com
 
 
 ## Stats
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schadenkai&theme=default)
 ![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=schadenkai&theme=default&utcOffset=8)
 
 ## Socials
