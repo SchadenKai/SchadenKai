@@ -70,7 +70,15 @@ I am an experienced engineer specializing in <strong>Applied AI</strong> and <st
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=schadenkai&theme=default&utcOffset=8" alt="Productive Time" />
+  <div>
+    <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=SchadenKai&theme=react" width="51%" />
+    <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=SchadenKai&layout=compact&show_icons=true&theme=react" alt="MatinT-SA github-readme-stats" width="48%" />
+  </div>
+  <br />
+  <div>
+    <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=SchadenKai&layout=compact&theme=react" alt="MatinT-SA github readme top-langs" width="39%" />
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=SchadenKai&theme=merko" alt="MatinT-SA github readme activity graph" width="60%" />
+  </div>
   <br/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=SchadenKai&color=red&label=Profile%20Views" alt="Profile Views" />
